@@ -16,7 +16,7 @@ being forced to come out to one's parents, isn't it?
 
 **GIFs & Screenshots:** [Imgur Album](http://imgur.com/a/ultWM)
 
-**Behind-the-scenes:** [My open design document.](http://blog.ncase.me/coming-out-simulator-2014/)
+**Behind-the-scenes:** [Nicky's open design document.](http://blog.ncase.me/coming-out-simulator-2014/)
 
 ---
 
